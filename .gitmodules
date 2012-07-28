@@ -1,0 +1,3 @@
+[submodule "protobuf-mirror"]
+	path = protobuf-mirror
+	url = git://github.com/aidansteele/protobuf-mirror.git
